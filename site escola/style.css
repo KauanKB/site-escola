@@ -1,1 +1,5 @@
-body{background-color:#2e7096; color: antiquewhite;}
+:root{ --cor-de-fundo: aliceblue;}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
